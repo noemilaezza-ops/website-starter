@@ -15,14 +15,14 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── public/
 │   └── favicon.svg
 ├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
+│   ├── assets
+│   │   └── astro.svg
+│   ├── components
+│   │   └── Welcome.astro
+│   ├── layouts
+│   │   └── Layout.astro
+│   └── pages
+│       └── index.astro
 └── package.json
 ```
 
@@ -46,3 +46,4 @@ All commands are run from the root of the project, from a terminal:
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
 Maintained by the eve agent.
+Verified: agent write path works.
